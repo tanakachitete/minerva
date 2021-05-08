@@ -10,6 +10,10 @@ variety of different ratios.
 
 [Register](http://analysewithminerva.herokuapp.com/register)
 
+## Note
+
+Source code cannot be made public as it contains API key and database credentials.
+
 ## Author
 
 Tanaka Chitete
